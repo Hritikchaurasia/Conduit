@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/listArticlesFragment"
+        android:title="Global Feed"
+        android:icon="@drawable/ic_global_feed" />
+
+    <item android:id="@+id/userfeedFragment"
+        android:title="My Feed"
+        android:icon="@drawable/ic_my_article"
+        />
+
+    <item android:id="@+id/myArticlesFragment"
+        android:title="My Articles"
+        android:icon="@drawable/ic_articles" />
+
+</menu>
